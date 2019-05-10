@@ -1,0 +1,5 @@
+Belajar Githun
+-menggenal repository
+-commit
+-branch
+-fork
