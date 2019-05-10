@@ -3,7 +3,10 @@ rencana content
 -javascript
  *es6
  *framework Javascript
+  ^vue
 -struktur data dasar
 -php framework
+ ^laravel
 -interview
 -vlogs
+-python
