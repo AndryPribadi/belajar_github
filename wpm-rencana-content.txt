@@ -1,6 +1,8 @@
 rencana content
 
 -javascript
+ *es6
+ *framework Javascript
 php framework
 interview
 vlogs
